@@ -1,6 +1,8 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//RAC Arena//EN
+METHOD:PUBLISH
+X-WR-CALNAME:RAC Arena Events
 BEGIN:VEVENT
 SUMMARY:Good Charlotte
 DESCRIPTION:https://www.racarena.com.au/whats-on/good-charlotte-2026/
@@ -174,126 +176,5 @@ SUMMARY:Lily Allen
 DESCRIPTION:https://www.racarena.com.au/whats-on/lily-allen-2026/
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261101
-END:VEVENT
-PRODID:-//Optus Stadium//EN
-BEGIN:VEVENT
-SUMMARY:AFC Women's Asian Cup - Opening Ceremony Match
-DESCRIPTION:https://optusstadium.com.au/whats-on/afc-asian-womens-cup
-DTSTART;VALUE=DATE:20260301
-DTEND;VALUE=DATE:20260301
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AFC Women's Asian Cup - Semi Final
-DESCRIPTION:https://optusstadium.com.au/whats-on/afc-asian-womens-cup---semi-final
-DTSTART;VALUE=DATE:20260317
-DTEND;VALUE=DATE:20260317
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fremantle Dockers v Melbourne
-DESCRIPTION:https://optusstadium.com.au/whats-on/rd-2-2026---fremantle-v-melbourne
-DTSTART;VALUE=DATE:20260321
-DTEND;VALUE=DATE:20260321
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Coast Eagles v North Melbourne
-DESCRIPTION:https://optusstadium.com.au/whats-on/rd-2-2026---west-coast-eagles-v-north-melbourne
-DTSTART;VALUE=DATE:20260322
-DTEND;VALUE=DATE:20260322
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fremantle Dockers v Richmond
-DESCRIPTION:https://optusstadium.com.au/whats-on/rd-3-2026---fremantle-v-richmond
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260328
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Coast Eagles v Sydney Swans
-DESCRIPTION:https://optusstadium.com.au/whats-on/rd-4-2026---west-coast-eagles-v-sydney-swans
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260404
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NRL Double Header
-DESCRIPTION:https://optusstadium.com.au/whats-on/nrl-double-header-2026
-DTSTART;VALUE=DATE:20260411
-DTEND;VALUE=DATE:20260411
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Coast Eagles v Fremantle Dockers
-DESCRIPTION:https://optusstadium.com.au/whats-on/rd-6-2026---west-coast-eagles-v-fremantle-dockers
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260419
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fremantle Dockers v Carlton
-DESCRIPTION:https://optusstadium.com.au/whats-on/rd-7-2026---fremantle-v-carlton
-DTSTART;VALUE=DATE:20260425
-DTEND;VALUE=DATE:20260425
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Coast Eagles v Richmond
-DESCRIPTION:https://optusstadium.com.au/whats-on/rd-8-2026---west-coast-eagles-v-richmond
-DTSTART;VALUE=DATE:20260502
-DTEND;VALUE=DATE:20260502
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fremantle Dockers v Hawks
-DESCRIPTION:https://optusstadium.com.au/whats-on/rd-9-2026---fremantle-v-hawks
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260507
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Coast Eagles v GWS Giants
-DESCRIPTION:https://optusstadium.com.au/whats-on/rd-10-2026---west-coast-eagles-v-gws-giants
-DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260517
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fremantle Dockers v St Kilda
-DESCRIPTION:https://optusstadium.com.au/whats-on/rd-11-2026---fremantle-v-st-kilda
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260522
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Coast Eagles v Essendon
-DESCRIPTION:https://optusstadium.com.au/whats-on/rd-12-2026---west-coast-eagles-v-essendon
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260531
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:West Coast Eagles v Port Adelaide
-DESCRIPTION:https://optusstadium.com.au/whats-on/rd-13-2026---west-coast-eagles-v-port-adelaide
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260606
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:North Melbourne v West Coast Eagles
-DESCRIPTION:https://optusstadium.com.au/whats-on/rd-14-2026---north-melbourne-v-west-coast-eagles
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260613
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fremantle Dockers v Geelong Cats
-DESCRIPTION:https://optusstadium.com.au/whats-on/rd-15-2026---fremantle-v-geelong-cats
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260618
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wallabies v Springboks
-DESCRIPTION:https://optusstadium.com.au/whats-on/wallabies-v-springboks
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260927
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wine Wars: WA v SA
-DESCRIPTION:https://optusstadium.com.au/whats-on/wine-wars-wa-v-sa
-DTSTART;VALUE=DATE:20260326
-DTEND;VALUE=DATE:20260326
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drag Me to Bingo: Bottomless Brunch
-DESCRIPTION:https://optusstadium.com.au/whats-on/drag-me-to-bingo
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260418
 END:VEVENT
 END:VCALENDAR
