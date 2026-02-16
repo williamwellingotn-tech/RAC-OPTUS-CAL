@@ -4,4 +4,4 @@ This is not updated frequently yet although I plan to automate it someday someho
 
 Subscribe to
 
-webcal://raw.githubusercontent.com/williamwellingotn-tech/RAC-OPTUS-CAL/refs/heads/main/rac-arena-events.ics
+webcal://raw.githubusercontent.com/williamwellingotn-tech/RAC-OPTUS-CAL/refs/heads/main/rac-arena-optus-stadium-events.ics
